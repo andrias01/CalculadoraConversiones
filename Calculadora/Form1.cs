@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Calculadora //Coloque un hola
+namespace Calculadora //ESte es otro comentario para hacer bien la practica
 {
     public partial class Form1 : Form
     {
