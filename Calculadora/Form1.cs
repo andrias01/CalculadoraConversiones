@@ -8,11 +8,15 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Calculadora //ESte es otro comentario para hacer bien la practica
+namespace Calculadora //Puse comen en master
 {
     public partial class Form1 : Form
     {
+<<<<<<< HEAD
         long Pantalla, conversionNumero,chao;
+=======
+        long Pantalla, conversionNumero,hola;
+>>>>>>> pueba
         double Primero, Segundo,Total=0;
         string operador="", pantalla, conversionString, operadorBases = "decimal";
         bool evaluacion = true, bandera = false, EncontrarLetra = false, PuntoRepetido=false;
