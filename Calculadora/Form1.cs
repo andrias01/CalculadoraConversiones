@@ -12,7 +12,7 @@ namespace Calculadora //ESte es otro comentario para hacer bien la practica
 {
     public partial class Form1 : Form
     {
-        long Pantalla, conversionNumero;
+        long Pantalla, conversionNumero,chao;
         double Primero, Segundo,Total=0;
         string operador="", pantalla, conversionString, operadorBases = "decimal";
         bool evaluacion = true, bandera = false, EncontrarLetra = false, PuntoRepetido=false;
